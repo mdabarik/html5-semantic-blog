@@ -1,0 +1,5 @@
+Attribute Reference:
+https://www.w3schools.com/tags/ref_attributes.asp
+
+HTML5 Tags Reference:
+https://www.tutorialrepublic.com/html-reference/html5-tags.php

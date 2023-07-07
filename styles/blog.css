@@ -1,0 +1,26 @@
+nav > ul > li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav > li > a {
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* nested manu styles */
+
+nav li .dropdown {
+    display: none;
+    position: absolute;
+    background-color: lightyellow;
+    padding-left: 10px;
+}
+
+nav li:hover > .dropdown {
+    display: block;
+}
